@@ -1,5 +1,5 @@
-# Dog-Website
-A simple static website for practice in HTML, CSS, and JavaScript.
+# Dog-Webpage
+A simple static webpage for practice in HTML, CSS, and JavaScript.
 
 <h3>  Includes: </h3> 
 <ul>
