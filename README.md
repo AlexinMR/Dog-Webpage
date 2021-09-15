@@ -2,6 +2,8 @@
 A simple static website for practice in HTML, CSS, and JavaScript.
 
 <h3>  Includes: </h3> 
-  -hero image on landing page. 
-  -Functioning contact form using Formspree.io. 
-  -JavaScript for hiding the back-to-top button while at the top of the page.
+<ul>
+  <li>hero image on landing page. </li>
+  <li>Functioning contact form using Formspree.io. </li>
+  <li>JavaScript for hiding the back-to-top button while at the top of the page.</li>
+</ul>
